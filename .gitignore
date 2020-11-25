@@ -1,0 +1,8 @@
+/bootstrap/
+/.vscode/
+/imagens/
+/vendor/
+composer.lock
+base.php
+teste.php
+teste2.php
